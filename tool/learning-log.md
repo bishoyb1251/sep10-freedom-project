@@ -10,7 +10,7 @@ Tool: **Accounting**
 
 
 3/9/24:
-* Some thing else I had learned about Accouting is that The whole point of accouting  is to give you an idea of what’s working and what’s not working so that you can fix it. Accouting also lets you see if your making profit off your buisness or if your losing. This information isnt just private it is availible to external people such as inverstors who want to invest in your company.
+* Some thing else I had learned about Accouting is that The whole point of accouting  is to give you an idea of what’s working and what’s not working so that you can fix it. Accouting also lets you see if your making profit off your buisness or if your losing. This information isnt just private it is availible to external people such as inverstors who want to invest in your company. In order to do accouting you have to be able to have a bachleors which is 4 years of college. What you would do is provide financial advice and and tax planning. Did you know that you get your checks from your jobs through accounting?? Thats crazy!! 
 
 
 

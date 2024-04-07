@@ -36,8 +36,11 @@ I tinkered using (this site)[https://stackoverflow.com/questions/63286363/how-ca
 </script>
 <script>new WOW().init();</script>
 </body>``
-This showed me that wow.js is used for sometimes Javascript. I also learned that it works with animate css to be able to make the page pop out even more. 
+This showed me that wow.js is used for sometimes Javascript. I also learned that it works with animate css to be able to make the page pop out even more.
 
+### Learning log #5
+
+Something I learned based off learning my tool is that it is used in java script to be able to work well and be able to work with animate to be able to make pages look even better. I watched this (video)[https://www.youtube.com/watch?v=bd_jHBk8Kzw&t=46s] To be able to show me to be able to under stand how the full picture of wow.js uses to be able to make your page look better. Some code I can use to be able to work on is maybe rubber band or come in from the left to allow words to come from the left or right or what ever code you get.
 
 
 

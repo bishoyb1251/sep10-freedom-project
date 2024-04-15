@@ -1,5 +1,5 @@
 # Entry 5
-##### X/X/XX
+##### 5/14/24
 
 ### Context 
 Some context I learned about while using wow.js was that wow.js is used to make the your page seem a lot more animated. For example if you want to add some bounce or make your page have its own features you would use wow.js. What I mean is for example if I want to make a word slide in from the left I would use a code to make it come in from the left. The page that allowed me to find this out was [wow.js](https://wowjs.uk/). This really allowed me to understand what wow.js was. I did not really know where to go because you have to click on Animate css to bring you to [Animate css](https://animate.style/). If I did not understand anything on this site which has happened before I would ask on slack or maybe even search on youtube. I would also "tinker" as Mr. Mueller like to call it. 

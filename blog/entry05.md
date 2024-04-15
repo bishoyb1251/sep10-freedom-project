@@ -13,11 +13,18 @@ Well if you are an artist or maybe even a kid it would not matter because EVERYO
 ### Screenshots?
 Well I can't do screenshots with animations but what I can do is say a few codes that you can use to make your page look so much better!!
 *<h1 class="animate__animated animate__bounce">An animated element</h1>
-*animate__bounce
-*animate__rubberBand
-*animate__heartBeat
-*animate__jello
-*animate__wobble
+<ol>
+  <li>animate__bounce</li>
+
+  <li>animate__rubberBand</li>
+
+  <li>animate__heartBeat</li>
+
+  <li>animate__jello</li>
+
+  <li>animate__wobble</li>
+  </ol>
+
 It goes on and on and on but these are the codes that really found me intrigued because of how they could possibly attract someone to your website. 
 
 ### Conclusion

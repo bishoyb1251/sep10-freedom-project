@@ -25,7 +25,7 @@ Well I can't do screenshots with animations but what I can do is say a few codes
   <li>animate__wobble</li>
   </ol>
 
-It goes on and on and on but these are the codes that really found me intrigued because of how they could possibly attract someone to your website. 
+It goes on and on and on but these are the codes that really found me intrigued because of how they could possibly attract someone to your website. Another code I used to make this poosible is the caption. I say this because in order to make the caption that big I used a header tag. 
 
 ### Conclusion
 To conclude wow.js is mainly used for animation and also used for making your page look so much better then what it would look like without some sort of animation. Also wow.js is amazing.

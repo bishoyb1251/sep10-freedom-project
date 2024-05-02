@@ -11,11 +11,12 @@ I made my MVP by using wow.js, this would allow me to be able to make my page lo
 Some takeaways that I got from doing this project is before this I did not really know what some of the code needed to make these webistes used. Which is why I had asked questions on slack and I used bootstrap to be able to make my code actually work. I also learned that the carousel is a really important 
 
 #### Sources
-Some Sources I used to be able to work and find out about Accoutning are ![image](https://github.com/bishoyb1251/sep10-freedom-project/assets/146866628/f1f39568-5cb4-460d-87df-5dd5a0f5b008)
+Some Sources I used to be able to work and find out about Accoutning are (this website which is the home page for the animating system which I used) [https://wowjs.uk/]
 
 
 #### Screenshots,Code snippets of my tinkering work
-Some code I used was...
+Some code I used was ![image](https://github.com/bishoyb1251/sep10-freedom-project/assets/146866628/f39921c1-2c73-4af4-9c74-cc58288a875b)
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 

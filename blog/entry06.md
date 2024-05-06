@@ -12,7 +12,7 @@ Some takeaways that I got from doing this project is before this I did not reall
 
 #### Sources
 Some Sources I used to be able to work and find out about Accoutning are [this website which is the home page for the animating system which I used](https://wowjs.uk/)
-
+I also had used some youtube videos to be able to see how accouting is used around the world. 
 
 #### Screenshots,Code snippets of my tinkering work
 Some code I used was ![image](https://github.com/bishoyb1251/sep10-freedom-project/assets/146866628/f39921c1-2c73-4af4-9c74-cc58288a875b)

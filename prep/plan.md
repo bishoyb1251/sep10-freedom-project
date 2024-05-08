@@ -23,8 +23,9 @@ So first I am going to create the boxes around to my liking and how the timeline
 #### MVP
 
 * Task/Timeline
-
-
+Most important task was to fix my accordion
+Next most was to fisnish like adding headers.
+Least most importance was to fix my colors. 
 #### Beyond MVP
 
 * Task

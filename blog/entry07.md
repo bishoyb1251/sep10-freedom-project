@@ -13,11 +13,11 @@ I was really happy with what I got in my in class presentation consedering the f
 
 
 #### Here are the link to my notes 
-
+https://docs.google.com/document/d/1BM-zMEaCrBGKbIOCf9i1dRKaFhs0HwyAFvt-MbnTlBE/edit
 
 
 #### Here are the link to my slides
-
+https://docs.google.com/presentation/d/19S0YROxWGl8yhcHkTu58Q8L5SOhz2ZDIKKz0C4n0y-k/edit#slide=id.g2ded51841ec_0_6
 
 
 
